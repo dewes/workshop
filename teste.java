@@ -1,0 +1,7 @@
+
+Class Teste {
+
+	Integer a;
+
+}
+
